@@ -1,1 +1,1 @@
-from registry-1.docker.io/v2/envoyproxy/envoy/manifests
+from docker.m.daocloud.io/envoyproxy/envoy
